@@ -1,9 +1,9 @@
 # Marian Klonoczki - Data Scientist
 
-![Profile Picture](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
+
 
 ## Introduction
-Hello! I'm Marian Klonoczki, a passionate Data Scientist with expertise in Python, machine learning, and natural language processing (NLP). I am excited about leveraging data-driven insights to solve complex problems and make informed decisions.
+Hello! I'm Marian Klonoczki and I am excited about leveraging data-driven insights to solve complex problems and make informed decisions.
 
 In this GitHub repository, you will find a collection of projects and code samples that showcase my skills and experience in the field of data science. These projects cover various domains and demonstrate my ability to apply cutting-edge techniques to extract valuable information from data.
 
