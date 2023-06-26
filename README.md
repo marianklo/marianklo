@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 
-## 🔭 I'm Marian Klonoczki and I am excited about leveraging data-driven insights to solve complex problems and make informed decisions.
+### 🔭 I'm Marian Klonoczki and I am excited about leveraging data-driven insights to solve complex problems and make informed decisions.
 
-In this GitHub repository, you will find a collection of projects and code samples that showcase my skills and experience in the field of data science. These projects cover various domains and demonstrate my ability to apply cutting-edge techniques to extract valuable information from data.
+In this GitHub repositories, you will find a collection of projects and code samples that showcase my skills and experience in the field of data science. These projects cover various domains and demonstrate my ability to apply cutting-edge techniques to extract valuable information from data.
 
 ## 🌱 Skills 
 - Programming: Pyhton (NumPy, Pandas, scikit-learn, TensorFlow, Keras)
@@ -19,6 +19,7 @@ In this GitHub repository, you will find a collection of projects and code sampl
 ## 📫 Contact Information
 - LinkedIn: [Marian Klonoczki](https://linkedin.com/in/marian-klonoczki-11a193154/)
 - Email: [marian.klonoczki@example.com](mailto:marian.klonoczki@gmail.com)
+
 
 ⚡ I am open to collaboration, job opportunities, and discussing exciting data science projects. Please feel free to reach out to me through LinkedIn or email.
 
